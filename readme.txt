@@ -3,14 +3,14 @@ Contributors: gourl, GoUrl.io
 Plugin Name: GoUrl Jigoshop - Bitcoin Altcoin Payment Gateway Processor
 Plugin URI: https://gourl.io/bitcoin-payments-jigoshop.html
 Author URI: https://gourl.io
-Tags: jigoshop, jigo shop, bitcoin, bitcoincash, bitcoin cash, bitcoins, bitcoin payment, bitcoin payments, paypal, woocommerce, osCommerce, gourl, google, bitstamp, Poloniex, jigoshop payment gateway, woocommerce payment gateway, btc, coinbase, cryptocurrency, crypto currency, wp ecommerce, bitpay, shopping cart, ecommerce, commerce, eshop, payment gateway, payment plugin, payment, e-commerce, ecommerce, fulfillment, woo commerce, wp e-commerce, credit, accept bitcoin, bitcoin payments, bitcoin plugin, bitcoin wordpress plugin, bitcoin store, BitPay, cart, checkout, e-commerce, online store, payment, payment gateway, sell, shortcode, litecoin, dogecoin, dash, speedcoin, vertcoin, reddcoin, feathercoin, potcoin, monetaryunit, peercoin
+Tags: jigoshop, jigo shop, bitcoin, bitcoincash, bitcoin cash, bitcoins, bitcoin payment, bitcoin payments, paypal, woocommerce, osCommerce, gourl, google, bitstamp, Poloniex, jigoshop payment gateway, woocommerce payment gateway, btc, coinbase, cryptocurrency, crypto currency, wp ecommerce, bitpay, shopping cart, ecommerce, commerce, eshop, payment gateway, payment plugin, payment, e-commerce, ecommerce, fulfillment, woo commerce, wp e-commerce, credit, accept bitcoin, bitcoin payments, bitcoin plugin, bitcoin wordpress plugin, bitcoin store, BitPay, cart, checkout, e-commerce, online store, payment, payment gateway, sell, shortcode, litecoin, dogecoin, Neutron, speedcoin, vertcoin, reddcoin, feathercoin, potcoin, monetaryunit, peercoin
 Requires at least: 3.5
 Tested up to: 4.9
 Stable Tag: 1.1.2
 License: GNU Version 2 or Any Later Version
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Provides Bitcoin/Altcoin Payment Gateway for Jigoshop 1.12+ or higher. Accept Bitcoin, Bitcoin Cash, Litecoin, Dogecoin, Dash, etc Payments on Your Website
+Provides Bitcoin/Altcoin Payment Gateway for Jigoshop 1.12+ or higher. Accept Bitcoin, Bitcoin Cash, Litecoin, Dogecoin, Neutron, etc Payments on Your Website
 
 
 
@@ -23,12 +23,12 @@ Wordpress Plugin for Jigoshop Features -
 
 * 100% Free Open Source Plugin on [Github.com](https://github.com/cryptoapi/Bitcoin-Payments-Jigoshop)
 * Provides a Cryptocurrency Payment Gateway for [Jigoshop 1.12 or higher](https://wordpress.org/plugins/jigoshop/)
-* Accept Bitcoin, BitcoinCash, Litecoin, Dash, Dogecoin, Speedcoin, Reddcoin, Potcoin, Feathercoin, Vertcoin, Peercoin, MonetaryUnit payments in Jigoshop
+* Accept Bitcoin, BitcoinCash, Litecoin, Neutron, Dogecoin, Speedcoin, Reddcoin, Potcoin, Feathercoin, Vertcoin, Peercoin, MonetaryUnit payments in Jigoshop
 * No Monthly Fee, Transaction Fee from 0%
 * Product Prices in Bitcoin/Altcoins directly and sends the amount straight to your business wallet.
 * Product Prices in USD/EUR/GBP/etc. Google/Bitstamp/Poloniex Live Exchange Rates
 * Direct Integration on your website, no external payment pages opens (as other payment gateways offer)
-* You will see the bitcoin/altcoin payment statistics in one common table on your website. 
+* You will see the bitcoin/altcoin payment statistics in one common table on your website.
 * No Chargebacks, Global, Secure. All in automatic mode.
 * [Free Tech Support](https://gourl.io/view/contact/Contact_Us.html) for You
 
@@ -99,5 +99,4 @@ In the search field type "GoUrl Jigoshop" and click Search Plugins. Once you've 
 Minor updates
 
 = 1.0.0 =
-Initial Release   
- 
+Initial Release

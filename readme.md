@@ -7,7 +7,7 @@ Version 1.1.2
 
 **Wordpress Plugin provides a Bitcoin/Altcoin Payment Gateway for Jigoshop 1.12+ or higher.**
 
-Accept Bitcoin, BitcoinCash, Litecoin, Dash, Dogecoin, Speedcoin, Reddcoin, Potcoin, Feathercoin, Vertcoin, Peercoin, MonetaryUnit on Website Online
+Accept Bitcoin, BitcoinCash, Litecoin, Neutron, Dogecoin, Speedcoin, Reddcoin, Potcoin, Feathercoin, Vertcoin, Peercoin, MonetaryUnit on Website Online
 
 * Author URI: [https://gourl.io](https://gourl.io)
 * Plugin Page: [https://gourl.io/bitcoin-payments-jigoshop.html](https://gourl.io/bitcoin-payments-jigoshop.html)
